@@ -1,2 +1,2 @@
-# SJ2006-stack.github.io
-website for a hustle
+# AgncyPulse.in
+hustling frontend for a automated tool for the marketing agencies
